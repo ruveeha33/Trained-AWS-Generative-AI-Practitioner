@@ -1,0 +1,1 @@
+# Trained-AWS-Generative-AI-Practitioner
