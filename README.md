@@ -3,7 +3,7 @@
 
 This repository captures my comprehensive learning experience as an *AWS Generative AI Practitioner*, with a strong focus on applying AWS AI services, particularly *Amazon SageMaker*, for building, training, and deploying AI models in real-world scenarios.
 
-My journey combined conceptual learning with extensive hands-on practice to master generative AI capabilities within the AWS ecosystem.
+My journey combined conceptual learning with hands-on practice to explore generative AI capabilities within the AWS ecosystem.
 
 
 ## Objectives of This Learning Path:
@@ -20,8 +20,8 @@ My journey combined conceptual learning with extensive hands-on practice to mast
 
 - Hands-on experience with **Amazon SageMaker Studio** for model building and deployment  
 - Successfully completed assignments demonstrating AI model lifecycle management  
-- Gained proficiency in AI model hosting, monitoring, and scaling  
-- Earned AWS Generative AI Practitioner certification badge and certificates
+- Studied AI model hosting, monitoring, and scaling  
+- Earned an AWS Cloud Quest: Generative AI Practitioner training badge and course-completion certificate
 
 
 ## Core Topics Covered:
@@ -87,3 +87,9 @@ Screenshots and documentation of these assignments are included in this reposito
 Thank you for checking out my AWS Generative AI Practitioner journey. Feel free to explore the assignments and learning materials in this repo!
 
 ⭐ If you find this useful, your star is highly appreciated.
+
+
+## Credential scope
+
+These are training and course-completion records, not AWS professional certification claims. [Verified training context](https://github.com/ruveeha33/ruveeha33/blob/main/professional-background.md#credentials-and-course-completions).
+
